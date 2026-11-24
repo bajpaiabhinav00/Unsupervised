@@ -1,0 +1,156 @@
+{
+  "Cluster 1": {
+    "cluster_name": "Cluster 1",
+    "country_count": 20,
+    "countries": [
+      "Albania",
+      "Armenia",
+      "Cambodia",
+      "Dominican Republic",
+      "Egypt",
+      "Gabon",
+      "Ghana",
+      "Guyana",
+      "Honduras",
+      "Indonesia",
+      "Jordan",
+      "Kyrgyz Republic",
+      "Maldives",
+      "Moldova",
+      "Peru",
+      "Philippines",
+      "Senegal",
+      "South Africa",
+      "Tajikistan",
+      "Turkey"
+    ],
+    "maternal_health_profile": "High coverage and strong service utilization",
+    "child_mortality_profile": "Substantially lower child mortality rates relative to the global survey average",
+    "child_immunization_profile": "Moderate coverage with ongoing service gaps",
+    "child_nutrition_profile": "Relatively lower rates of child acute and chronic malnutrition",
+    "socioeconomic_profile": "High coverage and strong service utilization",
+    "strongest_positive_indicators": [
+      "Access to Improved Sanitation (+1.01 SD)",
+      "Antenatal Care 4+ Visits (+0.93 SD)",
+      "Access to Improved Water (+0.87 SD)"
+    ],
+    "strongest_negative_indicators": [
+      "Childhood Stunting (HAZ < -2 SD) (-1.01 SD)",
+      "Infant Mortality Rate (-0.95 SD)",
+      "Under-Five Mortality Rate (-0.94 SD)"
+    ]
+  },
+  "Cluster 2": {
+    "cluster_name": "Cluster 2",
+    "country_count": 20,
+    "countries": [
+      "Afghanistan",
+      "Angola",
+      "Azerbaijan",
+      "Benin",
+      "Cameroon",
+      "Comoros",
+      "Congo",
+      "Congo Democratic Republic",
+      "Cote d'Ivoire",
+      "Ethiopia",
+      "Guinea",
+      "Haiti",
+      "Madagascar",
+      "Mali",
+      "Mauritania",
+      "Mozambique",
+      "Nigeria",
+      "Papua New Guinea",
+      "Togo",
+      "Vietnam"
+    ],
+    "maternal_health_profile": "Substantial systemic coverage gaps and restricted access",
+    "child_mortality_profile": "Child mortality rates near the cross-country survey median",
+    "child_immunization_profile": "Substantial systemic coverage gaps and restricted access",
+    "child_nutrition_profile": "Moderate child nutritional vulnerability near the survey average",
+    "socioeconomic_profile": "Below-average coverage with significant service access deficits",
+    "strongest_positive_indicators": [
+      "Under-Five Mortality Rate (+0.40 SD)",
+      "Infant Mortality Rate (+0.35 SD)",
+      "Childhood Stunting (HAZ < -2 SD) (+0.32 SD)"
+    ],
+    "strongest_negative_indicators": [
+      "Measles Vaccination Coverage (-1.03 SD)",
+      "DPT 3 / Pentavalent 3 Vaccination (-1.02 SD)",
+      "Full Basic Immunization Coverage (-0.79 SD)"
+    ]
+  },
+  "Cluster 3": {
+    "cluster_name": "Cluster 3",
+    "country_count": 5,
+    "countries": [
+      "Chad",
+      "Eritrea",
+      "Niger",
+      "Timor-Leste",
+      "Yemen"
+    ],
+    "maternal_health_profile": "Substantial systemic coverage gaps and restricted access",
+    "child_mortality_profile": "Elevated child mortality rates relative to the global survey average",
+    "child_immunization_profile": "Substantial systemic coverage gaps and restricted access",
+    "child_nutrition_profile": "High burden of child undernutrition and chronic stunting",
+    "socioeconomic_profile": "Substantial systemic coverage gaps and restricted access",
+    "strongest_positive_indicators": [
+      "Childhood Wasting (WHZ < -2 SD) (+2.45 SD)",
+      "Childhood Underweight (WAZ < -2 SD) (+2.45 SD)",
+      "Childhood Stunting (HAZ < -2 SD) (+1.58 SD)"
+    ],
+    "strongest_negative_indicators": [
+      "Institutional Delivery (-2.19 SD)",
+      "Skilled Birth Attendance (-2.13 SD)",
+      "Access to Improved Sanitation (-1.40 SD)"
+    ]
+  },
+  "Cluster 4": {
+    "cluster_name": "Cluster 4",
+    "country_count": 25,
+    "countries": [
+      "Bangladesh",
+      "Bolivia",
+      "Burkina Faso",
+      "Burundi",
+      "Eswatini",
+      "Gambia",
+      "Guatemala",
+      "India",
+      "Lesotho",
+      "Liberia",
+      "Malawi",
+      "Morocco",
+      "Myanmar",
+      "Namibia",
+      "Nepal",
+      "Nicaragua",
+      "Pakistan",
+      "Rwanda",
+      "Sao Tome and Principe",
+      "Sierra Leone",
+      "Tanzania",
+      "Turkmenistan",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "maternal_health_profile": "Moderate coverage with ongoing service gaps",
+    "child_mortality_profile": "Child mortality rates near the cross-country survey median",
+    "child_immunization_profile": "Moderate coverage with ongoing service gaps",
+    "child_nutrition_profile": "Moderate child nutritional vulnerability near the survey average",
+    "socioeconomic_profile": "Below-average coverage with significant service access deficits",
+    "strongest_positive_indicators": [
+      "DPT 3 / Pentavalent 3 Vaccination (+0.60 SD)",
+      "Measles Vaccination Coverage (+0.57 SD)",
+      "Modern Contraceptive Prevalence Rate (+0.57 SD)"
+    ],
+    "strongest_negative_indicators": [
+      "Female Secondary Education (-0.21 SD)",
+      "Childhood Wasting (WHZ < -2 SD) (-0.17 SD)",
+      "Childhood Underweight (WAZ < -2 SD) (-0.04 SD)"
+    ]
+  }
+}

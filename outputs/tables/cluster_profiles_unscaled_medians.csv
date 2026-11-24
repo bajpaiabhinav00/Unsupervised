@@ -1,0 +1,5 @@
+Cluster_Name,anc_4plus_coverage,anc_skilled_provider,skilled_birth_attendance,institutional_delivery,modern_contraceptive_prevalence,infant_mortality_rate,under_five_mortality_rate,dpt3_vaccination_coverage,measles_vaccination_coverage,basic_vaccination_coverage,child_stunting_prevalence,child_wasting_prevalence,child_underweight_prevalence,exclusive_breastfeeding_rate,improved_drinking_water_access,improved_sanitation_access,female_secondary_education
+Cluster 1,85.3,96.85,97.05000000000001,94.8,24.3,23.0,28.0,84.65,83.9,71.25,17.6,5.15,5.7,40.25,94.75,93.6,40.55
+Cluster 2,51.900000000000006,84.5,68.5,68.5,18.55,44.0,64.0,61.6,61.5,40.599999999999994,28.2,5.35,15.350000000000001,40.15,75.25,45.2,23.15
+Cluster 3,32.8,70.4,29.3,29.8,11.0,48.0,93.0,61.7,68.7,48.7,43.9,16.3,36.4,23.3,67.4,18.8,10.1
+Cluster 4,72.2,95.4,84.4,79.8,31.1,39.0,54.0,85.2,86.5,66.6,28.9,5.1,12.6,53.6,84.0,66.8,23.3

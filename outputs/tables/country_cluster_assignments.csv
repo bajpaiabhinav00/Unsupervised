@@ -1,0 +1,71 @@
+CountryName,SurveyYear,Cluster,Cluster_Name
+Albania,2017,0,Cluster 1
+Armenia,2016,0,Cluster 1
+Cambodia,2021,0,Cluster 1
+Dominican Republic,2013,0,Cluster 1
+Egypt,2014,0,Cluster 1
+Gabon,2019,0,Cluster 1
+Ghana,2022,0,Cluster 1
+Guyana,2009,0,Cluster 1
+Honduras,2011,0,Cluster 1
+Indonesia,2017,0,Cluster 1
+Jordan,2023,0,Cluster 1
+Kyrgyz Republic,2012,0,Cluster 1
+Maldives,2016,0,Cluster 1
+Moldova,2005,0,Cluster 1
+Peru,2012,0,Cluster 1
+Philippines,2022,0,Cluster 1
+Senegal,2023,0,Cluster 1
+South Africa,2016,0,Cluster 1
+Tajikistan,2023,0,Cluster 1
+Turkey,2013,0,Cluster 1
+Afghanistan,2015,1,Cluster 2
+Angola,2023,1,Cluster 2
+Azerbaijan,2006,1,Cluster 2
+Benin,2017,1,Cluster 2
+Cameroon,2018,1,Cluster 2
+Comoros,2012,1,Cluster 2
+Congo,2011,1,Cluster 2
+Congo Democratic Republic,2023,1,Cluster 2
+Cote d'Ivoire,2021,1,Cluster 2
+Ethiopia,2024,1,Cluster 2
+Guinea,2024,1,Cluster 2
+Haiti,2016,1,Cluster 2
+Madagascar,2021,1,Cluster 2
+Mali,2023,1,Cluster 2
+Mauritania,2020,1,Cluster 2
+Mozambique,2022,1,Cluster 2
+Nigeria,2025,1,Cluster 2
+Papua New Guinea,2017,1,Cluster 2
+Togo,2013,1,Cluster 2
+Vietnam,2002,1,Cluster 2
+Chad,2014,2,Cluster 3
+Eritrea,2002,2,Cluster 3
+Niger,2012,2,Cluster 3
+Timor-Leste,2016,2,Cluster 3
+Yemen,2013,2,Cluster 3
+Bangladesh,2022,3,Cluster 4
+Bolivia,2008,3,Cluster 4
+Burkina Faso,2021,3,Cluster 4
+Burundi,2016,3,Cluster 4
+Eswatini,2006,3,Cluster 4
+Gambia,2019,3,Cluster 4
+Guatemala,2015,3,Cluster 4
+India,2020,3,Cluster 4
+Lesotho,2023,3,Cluster 4
+Liberia,2019,3,Cluster 4
+Malawi,2024,3,Cluster 4
+Morocco,2003,3,Cluster 4
+Myanmar,2016,3,Cluster 4
+Namibia,2013,3,Cluster 4
+Nepal,2022,3,Cluster 4
+Nicaragua,2001,3,Cluster 4
+Pakistan,2017,3,Cluster 4
+Rwanda,2025,3,Cluster 4
+Sao Tome and Principe,2008,3,Cluster 4
+Sierra Leone,2019,3,Cluster 4
+Tanzania,2022,3,Cluster 4
+Turkmenistan,2000,3,Cluster 4
+Uganda,2016,3,Cluster 4
+Zambia,2024,3,Cluster 4
+Zimbabwe,2015,3,Cluster 4

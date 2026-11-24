@@ -1,0 +1,71 @@
+CountryName,DHS_CountryCode,SurveyYear,maternal_gap_index,child_gap_index,overall_gap_index,priority_score,priority_rank,priority_tier
+Chad,TD,2014,0.7058,1.7995,1.2527,125.27,1,Higher Relative Gap
+Niger,NI,2012,0.6351,1.6958,1.1655,116.55,2,Higher Relative Gap
+Eritrea,ER,2002,0.6507,1.3691,1.0099,100.99,3,Higher Relative Gap
+Yemen,YE,2013,0.5762,1.3854,0.9808,98.08,4,Higher Relative Gap
+Timor-Leste,TL,2016,0.3906,1.3043,0.8474,84.74,5,Higher Relative Gap
+Congo Democratic Republic,CD,2023,0.3389,1.345,0.842,84.2,6,Higher Relative Gap
+Guinea,GN,2024,0.4382,1.1645,0.8013,80.13,7,Higher Relative Gap
+Madagascar,MD,2021,0.4235,1.1046,0.764,76.4,8,Higher Relative Gap
+Burundi,BU,2016,0.3567,1.1106,0.7336,73.36,9,Higher Relative Gap
+Eswatini,SZ,2006,0.2491,1.2068,0.728,72.8,10,Higher Relative Gap
+Pakistan,PK,2017,0.3888,1.0635,0.7261,72.61,11,Higher Relative Gap
+Sierra Leone,SL,2019,0.2521,1.1961,0.7241,72.41,12,Higher Relative Gap
+Benin,BJ,2017,0.3789,1.0399,0.7094,70.94,13,Higher Relative Gap
+Togo,TG,2013,0.4907,0.8956,0.6932,69.32,14,Higher Relative Gap
+Afghanistan,AF,2015,0.5976,0.7685,0.6831,68.31,15,Higher Relative Gap
+Angola,AO,2023,0.4743,0.8776,0.6759,67.59,16,Higher Relative Gap
+Nigeria,NG,2025,0.468,0.8723,0.6701,67.01,17,Higher Relative Gap
+Ethiopia,ET,2024,0.4465,0.8787,0.6626,66.26,18,Higher Relative Gap
+Haiti,HT,2016,0.4286,0.8773,0.6529,65.29,19,Higher Relative Gap
+Mali,ML,2023,0.4186,0.866,0.6423,64.23,20,Higher Relative Gap
+India,IA,2020,0.2154,1.0444,0.6299,62.99,21,Higher Relative Gap
+Mozambique,MZ,2022,0.4026,0.853,0.6278,62.78,22,Higher Relative Gap
+Liberia,LB,2019,0.257,0.9764,0.6167,61.67,23,Higher Relative Gap
+Cote d'Ivoire,CI,2021,0.324,0.908,0.616,61.6,24,Higher Relative Gap
+Cameroon,CM,2018,0.351,0.8228,0.5869,58.69,25,Moderate Relative Gap
+Comoros,KM,2012,0.3634,0.8095,0.5864,58.64,26,Moderate Relative Gap
+Papua New Guinea,PG,2017,0.4757,0.6894,0.5825,58.25,27,Moderate Relative Gap
+Myanmar,MM,2016,0.4183,0.7149,0.5666,56.66,28,Moderate Relative Gap
+Turkmenistan,TM,2000,0.1116,1.0213,0.5664,56.64,29,Moderate Relative Gap
+Morocco,MA,2003,0.4794,0.5742,0.5268,52.68,30,Moderate Relative Gap
+Mauritania,MR,2020,0.4155,0.6208,0.5181,51.81,31,Moderate Relative Gap
+Uganda,UG,2016,0.3448,0.6866,0.5157,51.57,32,Moderate Relative Gap
+Sao Tome and Principe,ST,2008,0.2783,0.742,0.5102,51.02,33,Moderate Relative Gap
+Bolivia,BO,2008,0.3281,0.6741,0.5011,50.11,34,Moderate Relative Gap
+Azerbaijan,AZ,2006,0.2817,0.6902,0.4859,48.59,35,Moderate Relative Gap
+Congo,CG,2011,0.2146,0.7372,0.4759,47.59,36,Moderate Relative Gap
+Bangladesh,BD,2022,0.3833,0.5677,0.4755,47.55,37,Moderate Relative Gap
+Guatemala,GU,2015,0.3062,0.6416,0.4739,47.39,38,Moderate Relative Gap
+Zimbabwe,ZW,2015,0.1972,0.7021,0.4496,44.96,39,Moderate Relative Gap
+Burkina Faso,BF,2021,0.2547,0.5918,0.4233,42.33,40,Moderate Relative Gap
+Tanzania,TZ,2022,0.3003,0.5144,0.4073,40.73,41,Moderate Relative Gap
+Senegal,SN,2023,0.2801,0.5311,0.4056,40.56,42,Moderate Relative Gap
+Malawi,MW,2024,0.2224,0.5862,0.4043,40.43,43,Moderate Relative Gap
+Nicaragua,NC,2001,0.2873,0.5109,0.3991,39.91,44,Moderate Relative Gap
+Lesotho,LS,2023,0.1421,0.647,0.3946,39.46,45,Moderate Relative Gap
+Vietnam,VN,2002,0.316,0.4682,0.3921,39.21,46,Moderate Relative Gap
+Namibia,NM,2013,0.18,0.5963,0.3882,38.82,47,Moderate Relative Gap
+Gambia,GM,2019,0.2771,0.4748,0.3759,37.59,48,Lower Relative Gap
+Nepal,NP,2022,0.2517,0.4479,0.3498,34.98,49,Lower Relative Gap
+Zambia,ZM,2024,0.1859,0.5068,0.3463,34.63,50,Lower Relative Gap
+Albania,AL,2017,0.2759,0.3627,0.3193,31.93,51,Lower Relative Gap
+South Africa,ZA,2016,0.1261,0.5071,0.3166,31.66,52,Lower Relative Gap
+Guyana,GY,2009,0.1674,0.446,0.3067,30.67,53,Lower Relative Gap
+Gabon,GA,2019,0.1997,0.395,0.2974,29.74,54,Lower Relative Gap
+Indonesia,ID,2017,0.1752,0.392,0.2836,28.36,55,Lower Relative Gap
+Ghana,GH,2022,0.2106,0.3544,0.2825,28.25,56,Lower Relative Gap
+Philippines,PH,2022,0.206,0.3474,0.2767,27.67,57,Lower Relative Gap
+Rwanda,RW,2025,0.2078,0.3225,0.2652,26.52,58,Lower Relative Gap
+Cambodia,KH,2021,0.2061,0.3104,0.2583,25.83,59,Lower Relative Gap
+Honduras,HN,2011,0.2084,0.3004,0.2544,25.44,60,Lower Relative Gap
+Egypt,EG,2014,0.2017,0.3008,0.2513,25.13,61,Lower Relative Gap
+Maldives,MV,2016,0.2323,0.2444,0.2383,23.83,62,Lower Relative Gap
+Dominican Republic,DR,2013,0.1608,0.3072,0.234,23.4,63,Lower Relative Gap
+Turkey,TR,2013,0.1912,0.2694,0.2303,23.03,64,Lower Relative Gap
+Kyrgyz Republic,KY,2012,0.1721,0.2595,0.2158,21.58,65,Lower Relative Gap
+Tajikistan,TJ,2023,0.2023,0.2016,0.2019,20.19,66,Lower Relative Gap
+Peru,PE,2012,0.1953,0.2003,0.1978,19.78,67,Lower Relative Gap
+Armenia,AM,2016,0.1908,0.1383,0.1645,16.45,68,Lower Relative Gap
+Jordan,JO,2023,0.1877,0.076,0.1318,13.18,69,Lower Relative Gap
+Moldova,MB,2005,0.1573,0.0675,0.1124,11.24,70,Lower Relative Gap

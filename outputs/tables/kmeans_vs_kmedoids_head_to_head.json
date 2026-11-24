@@ -1,0 +1,28 @@
+{
+  "K": 4,
+  "ARI_Agreement": 0.4088611358905739,
+  "KMeans": {
+    "Silhouette_Euclidean": 0.17057118028068383,
+    "Silhouette_Manhattan": 0.17896695946242627,
+    "DaviesBouldin": 1.6313604379604503,
+    "ClusterSizes": [
+      20,
+      20,
+      5,
+      25
+    ],
+    "Iterations": 18
+  },
+  "KMedoids_Manhattan": {
+    "Silhouette_Manhattan": 0.10573626233171436,
+    "Silhouette_Euclidean": 0.08384655639503343,
+    "DaviesBouldin": 2.1906520490043055,
+    "ClusterSizes": [
+      15,
+      17,
+      26,
+      12
+    ],
+    "Iterations": 2
+  }
+}
